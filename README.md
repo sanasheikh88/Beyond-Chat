@@ -7,7 +7,6 @@ A sleek web-based chat interface with inbox management, message bubbles, and an 
 
 ![Screenshot_2025-05-22_181420](https://github.com/user-attachments/assets/136ca2b1-91c2-4a77-9756-68023dc35c09)
 
-
 ---
 
 ✨ Features,
