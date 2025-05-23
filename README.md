@@ -1,4 +1,4 @@
-# 💬 Inbox Chat Interface with AI Copilot
+# 💬 Inbox Chat Interface 
 
 A sleek web-based chat interface with inbox management, message bubbles, and an integrated AI Copilot assistant. Built with pure HTML, CSS, and JavaScript.
 
